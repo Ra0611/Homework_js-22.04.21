@@ -1,0 +1,9 @@
+.container{
+    width: 70vw;
+    margin: 30vh auto;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;  
+}
